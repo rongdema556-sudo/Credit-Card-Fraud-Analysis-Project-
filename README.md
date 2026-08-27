@@ -28,5 +28,5 @@ The dashboard was build using the following tools and technologies
   we found that fraud losses are 13.3 percentage points higher on female cardholder accounts ($12.73M / 56.64%) compared to male accounts ($9.74M / 43.36%), driven in part by higher baseline transaction counts (325K vs.       268K).
 
   ## Screenshoot
-  ![Dashboard Preview]https://github.com/rongdema556-sudo/Credit-Card-Fraud-Analysis-Project-/commit/91d8eab5623e0e6b932afaf968c1b3f6d9c335f7
+  ![Dashboard Preview].https://github.com/rongdema556-sudo/Credit-Card-Fraud-Analysis-Project-/blob/main/image.png 
   
